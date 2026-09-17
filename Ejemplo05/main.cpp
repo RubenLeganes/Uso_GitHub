@@ -19,7 +19,7 @@ int main(int argc, char **argv)
 		case 3:
 		case 5:
 		case 7:
-			cout << "El numero " <<n<< " 5es primo " <<endl;
+			cout << "El numero " <<n<< " es primo " <<endl;
 			break;
 		default:
 			cout << "El numero " <<n<< " no es primo" <<endl;
